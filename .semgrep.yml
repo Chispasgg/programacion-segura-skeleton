@@ -1,0 +1,3 @@
+# Semgrep will use the OWASP Top 10 community ruleset.
+# Requires internet access to pull rules.
+# Usage: semgrep --config p/owasp-top-ten --error --metrics=off
